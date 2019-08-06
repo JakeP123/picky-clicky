@@ -5,7 +5,7 @@ Welcome To Simpons Clicky Game where we will test your memory!
 For an example of how it works, please check here.
 
 
-[Jake's Friend Finder (DEMO)](https://simpsons-clicky-picky.herokuapp.com/)
+[Play Simpsons Clicky Game](https://simpsons-clicky-picky.herokuapp.com/)
 
 ### Here's How It Works
 - Start Clicking The Images of Simpsons Characters
